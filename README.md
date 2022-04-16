@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Note:
+In this repo only the src folder is uploaded.
+
+To run this in your local, please run the below command:
+
+npx create-react-app folder(any foldername you want to give)
+
+and then replace the created src folder with the one uploaded.
